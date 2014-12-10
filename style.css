@@ -1,0 +1,21 @@
+.logo {
+	width: 180px;
+	height: 180px;
+}
+
+#coming-soon {
+	margin-top: 40px;
+	text-align: center;
+}
+
+.logo-container {
+	position: absolute;
+	bottom: 10px;
+	text-align: right;
+}
+
+#powered-by {
+	position: absolute;
+	bottom: 10px;
+	font-weight: 900;
+}
