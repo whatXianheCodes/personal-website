@@ -15,25 +15,41 @@
 
 </head>
 <body>
+	<nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand xdgames-brand">Home Page</a>
+        </div>
+        <div>
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+	        	<a class="xdgames-fontcolor" href="https://www.facebook.com/xianhe.huang">
+					<img class="logo" src="FB-f-Logo__blue_144.png"> Facebook
+				</a>
+			</li>
+            <li>
+				<a href="https://github.com/whatXianheCodes">
+					<img class="logo" src="GitHub-Mark-120px-plus.png"> Github
+				</a>
+			</li>
+			<li>
+				<a href="https://www.linkedin.com/pub/xianhe-huang/5a/64a/91b">
+					<img class="logo" src="LinkedIn-InBug-2CRev.png"> LinkedIn
+				</a>
+	        </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
 	<div id="coming-soon">
 		<img src="Coming-Soon.jpg">
 	</div>
-	<div class = "logo-container">
-		<div class ="container">
-			<a href="https://www.facebook.com/xianhe.huang">
-				<img class="logo" src="FB-f-Logo__blue_144.png">
-			</a>
-			<a href="https://github.com/whatXianheCodes">
-				<img class="logo" src="GitHub-Mark-120px-plus.png">
-			</a>
-			<a href="https://www.linkedin.com/pub/xianhe-huang/5a/64a/91b">
-				<img class="logo" src="LinkedIn-InBug-2CRev.png">
-			</a>
-		</div>
+
+	<div class ="footer">
+		<p id = "powered-by">Powered By: Xianhe Huang</p>
 	</div>
-	<div id ="powered-by">
-		Powered By: Xianhe Huang
-	</div>
+
 	<!--<script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
 		<div id="SkypeButton_Call_cheeeeese193_1">
 		  <script type="text/javascript">
