@@ -21,7 +21,7 @@
 	bottom: 0px;
 	height: 60px;
 	width: 100%;
-	background-color: #800000;
+	background-color: black;
 }
 
 .xdgames-brand {
@@ -30,7 +30,7 @@
 }
 
 .navbar-default{
-	background: #800000;
+	background: black;
 }
 
 .navbar-default .navbar-nav>li>a {
