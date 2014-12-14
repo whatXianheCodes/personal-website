@@ -6,6 +6,8 @@
   <title>Home</title>
   <!-- Latest compiled and minified CSS -->
   	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  	<script src"twitter.js"></script>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
@@ -29,12 +31,22 @@
 			</li>
             <li>
 				<a href="https://github.com/whatXianheCodes">
-					<img class="logo" src="GitHub-Mark-120px-plus.png"> Github
+					<img class="logo" src="GitHub-Mark-Light-120px-plus.png"> Github
 				</a>
 			</li>
 			<li>
 				<a href="https://www.linkedin.com/pub/xianhe-huang/5a/64a/91b">
 					<img class="logo" src="LinkedIn-InBug-2CRev.png"> LinkedIn
+				</a>
+	        </li>
+	        <li>
+				<a href="skype:cheeeeese193?add">
+					<img class="logo" src="ic_skype.svg"> Skype
+				</a>
+	        </li>
+	        <li>
+				<a href="https://twitter.com/xianhehuang">
+					<img class="logo" src="Twitter_logo_blue.png"> Twitter
 				</a>
 	        </li>
           </ul>
@@ -47,21 +59,8 @@
 	</div>
 
 	<div class ="footer">
-		<p id = "powered-by">Powered By: Xianhe Huang</p>
+		<p id = "powered-by">Powered By: Xianhe Huang </p>
 	</div>
-
-	<!--<script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
-		<div id="SkypeButton_Call_cheeeeese193_1">
-		  <script type="text/javascript">
-		    Skype.ui({
-		      "name": "chat",
-		      "element": "SkypeButton_Call_cheeeeese193_1",
-		      "participants": ["cheeeeese193"],
-		      "imageSize": 32
-		    });
-  	</script>
-  	<a href="https://twitter.com/xianhehuang" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @xianhehuang</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-</div> -->
+</div>
 </body>
 </html>

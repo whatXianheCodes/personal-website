@@ -40,3 +40,8 @@
 .navbar-default .navbar-brand {
 	color:white;
 }
+
+#twitter {
+	bottom: 10px;
+	position: absolute;
+}
