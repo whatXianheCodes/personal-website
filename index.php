@@ -13,7 +13,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 
 </head>
 <body>
@@ -26,27 +26,27 @@
           <ul class="nav navbar-nav navbar-right">
             <li>
 	        	<a class="xdgames-fontcolor" href="https://www.facebook.com/xianhe.huang">
-					<img class="logo" src="FB-f-Logo__blue_144.png"> Facebook
+					<img class="logo" src="images/FB-f-Logo__blue_144.png"> Facebook
 				</a>
 			</li>
             <li>
 				<a href="https://github.com/whatXianheCodes">
-					<img class="logo" src="GitHub-Mark-Light-120px-plus.png"> Github
+					<img class="logo" src="images/GitHub-Mark-Light-120px-plus.png"> Github
 				</a>
 			</li>
 			<li>
 				<a href="https://www.linkedin.com/pub/xianhe-huang/5a/64a/91b">
-					<img class="logo" src="LinkedIn-InBug-2CRev.png"> LinkedIn
+					<img class="logo" src="images/LinkedIn-InBug-2CRev.png"> LinkedIn
 				</a>
 	        </li>
 	        <li>
 				<a href="skype:cheeeeese193?add">
-					<img class="logo" src="ic_skype.svg"> Skype
+					<img class="logo" src="images/ic_skype.svg"> Skype
 				</a>
 	        </li>
 	        <li>
 				<a href="https://twitter.com/xianhehuang">
-					<img class="logo" src="Twitter_logo_blue.png"> Twitter
+					<img class="logo" src="images/Twitter_logo_blue.png"> Twitter
 				</a>
 	        </li>
           </ul>
@@ -55,7 +55,7 @@
     </nav>
 
 	<div id="coming-soon">
-		<img src="Coming-Soon.jpg">
+		<img src="images/Coming-Soon.jpg">
 	</div>
 
 	<div class ="footer">
